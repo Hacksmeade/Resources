@@ -63,6 +63,9 @@ https://walrus.app <br/><br/>
 Keychain Dumper for OSX <br/>
 https://github.com/ptoomey3/Keychain-Dumper <br/><br/>
 
+Csaba Barta - Extract Hashes (This github has some other nice tools)<br/>
+https://github.com/csababarta/ntdsxtract<br/><br/>
+
 
 ########### Exploit Databases ########### <br/>
 Exploit DB by Offensive Security <br/>
